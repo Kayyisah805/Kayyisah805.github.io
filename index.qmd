@@ -1,8 +1,8 @@
 ---
 title: "Melihat hubungan ekspor dan nilai tukar"
 subtitle: "Metode Penelitian Politeknik APP Jakarta"
-author: "I Made Krisna"
-date: 2022-08-10
+author: "Kayyisah Wan Azizah Maharani"
+date: 2024-11-10
 number-sections: true
 format:
   html: default
